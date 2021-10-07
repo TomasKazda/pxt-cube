@@ -1,4 +1,1 @@
-<xml xmlns="http://www.w3.org/1999/xhtml">
-  <block type="pxt-on-start"></block>
-  <block type="device_forever"></block>
-</xml>
+<xml xmlns="https://developers.google.com/blockly/xml"><variables><variable id="l6T`Zr9Q[SX/e01g9eZA">povoleno</variable></variables><block type="device_button_event" id="B|?bRc+.OSpY-AjIck^D" x="64" y="3"><field name="NAME">Button.A</field><statement name="HANDLER"><block type="variables_set" id="N7`#~2j5b:e7;YbD;F89"><field name="VAR" id="l6T`Zr9Q[SX/e01g9eZA">povoleno</field><value name="VALUE"><shadow type="math_number"><field name="NUM">0</field></shadow><block type="logic_boolean" id="[{2)4Y|IyTb{s6f?o~iP"><field name="BOOL">TRUE</field></block></value></block></statement></block><block type="device_forever" id="UgdAnr1ur0Bpx]`Ft*jD" x="505" y="8"/></xml>
